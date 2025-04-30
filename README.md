@@ -5,11 +5,6 @@ Manage appointments, patients, doctor schedules, and more through a modern and c
 
 ---
 
-## 🚀 Live Preview
-
-> Coming soon — host with GitHub Pages, Vercel, or Netlify!
-
----
 
 ## ✨ Features
 
@@ -19,12 +14,6 @@ Manage appointments, patients, doctor schedules, and more through a modern and c
 - 📅 Appointment Scheduling
 - 🏠 Beautiful Landing Page with Hero Banner
 - 📱 Fully Responsive Design (Bootstrap)
-
----
-
-## 📸 Screenshots
-
-> Add screenshots after project UI is finalized
 
 ---
 
