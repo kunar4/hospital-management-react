@@ -56,7 +56,7 @@ hospital-management-react/
 
 **Kunaranjini**  
 📍 GitHub: [@kunar4](https://github.com/kunar4)  
-📫 Email: *[add-your-email-here]* (optional)
+📫 Email: kunaranjini4@gmail.com (optional)
 
 ---
 
